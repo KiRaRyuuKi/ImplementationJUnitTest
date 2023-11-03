@@ -5,7 +5,7 @@ Implementation of JUnit Testing in Android Studio
 ### Implementation JUnit Test
 <p>
     <img src="https://img.shields.io/badge/OS-Kali%20Linux-blue?&logo=kali%20linux" />
-    <img src="https://img.shields.io/badge/IDE-Android-Studio?logo=android%20studio" />
+    <img src="https://img.shields.io/badge/IDE-Android%20Studio?logo=android%20studio" />
 </p>
 
 ### Stats
