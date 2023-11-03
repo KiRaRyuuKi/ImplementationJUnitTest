@@ -8,6 +8,7 @@ Implementation of JUnit Testing in Android Studio
     <img src="https://img.shields.io/badge/IDE-Android-Studio?logo=android%20studio" />
 </p>
 
+### Stats
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 👯 I am looking to collaborate on an Ecommerce Project and Mobile Apps. </br>
@@ -16,7 +17,6 @@ Implementation of JUnit Testing in Android Studio
     - 📫 How to reach me: <a href="m.ilham.v.28.07.2003@gmail.com.com"> Email me!</a> </br>
 </details>
 
-### Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiRaRyuuKi&layout=compact" height=180 />
 </p>
